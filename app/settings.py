@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'facebook',
     'google',
     'account',
-    'permission'
+    'permission',
+    'category'
 ]
 FACEBOOK_APP_ID = "3684441794901564"
 FACEBOOK_APP_SECRET = "8459910c29c0b0b2bdbeede63af135cd"
